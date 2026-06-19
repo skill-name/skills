@@ -42,6 +42,7 @@ A starting situation that generates work, then merges onto the main flow.
 Not feature work — upkeep.
 
 - **`/improve-codebase-architecture`** — run whenever you have a spare moment to keep the codebase good for agents to operate in. It surfaces deepening opportunities; picking one _generates an idea_ you can take into the main flow at `/grill-with-docs`.
+- **`/improve-file`** — drill into a specific file's internal structure: cohesion, gravity, flow, weight. Run when a single file feels harder to read or change than it should be.
 
 ## Crossing sessions
 
